@@ -1,0 +1,13 @@
+{
+    "name": "bio-site-vinilu-burger",
+    "version": "1.0.0",
+    "description": "Bio Site para Vinilu Burger - Hamburgueria em Indaiatuba/SP",
+    "scripts": {
+        "dev": "echo 'Open index.html in browser'",
+        "build": "echo 'Static site - no build needed'",
+        "start": "echo 'Open index.html in browser'"
+    },
+    "keywords": ["bio-site", "landing-page", "hamburgueria"],
+    "author": "",
+    "license": "MIT"
+}
