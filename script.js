@@ -5,7 +5,7 @@
 
 const LINKS = {
     whatsapp: "http://wa.me/5519989048576",      // Coloque o link do WhatsApp aqui
-    food99: "https://oia.99app.com/dlp9/aleS2X?area=BR",         // Coloque o link do 99Food aqui
+    food99: "https://oia.99app.com/dlp9/5OrE3S?share_media=SYSTEM_MESSAGE",         // Coloque o link do 99Food aqui
     instagram: "https://www.instagram.com/vinilu_burger/",     // Coloque o link do Instagram aqui
     google: "https://search.google.com/local/writereview?placeid=ChIJoZqJ_j5Nz5QRO8JYlWBYy70",        // Coloque o link do Google Reviews aqui
     location: "https://maps.app.goo.gl/JcPWBe4KnXyRp56d7?g_st=aw"       // Coloque o link do Google Maps aqui
